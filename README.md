@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashokak10
+- 👋 Hi, I’m Ashok
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 7598310163
