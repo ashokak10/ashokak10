@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashok
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science and Artficial Intelligence
+- 🌱 I’m currently learning Python, SQL, Tableau, Powerbi, MongoDB, Statistics, Machine Learning, Deep Learning
 - 📫 How to reach me 7598310163
 
 <!---
